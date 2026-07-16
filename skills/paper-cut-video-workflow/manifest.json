@@ -1,0 +1,11 @@
+{
+  "name": "paper-cut-video-workflow",
+  "version": "1.0.0",
+  "description": "Create paper-cut style short videos from product brief through final quality-controlled delivery.",
+  "canonical_format": "agent-skills",
+  "entrypoint": "SKILL.md",
+  "platforms": ["codex", "claude-code", "trae", "cursor", "generic"],
+  "requires_env": [],
+  "optional_tools": ["python", "ffmpeg", "hyperframes", "index-tts-2", "minimax", "elevenlabs"],
+  "private_data_policy": "project-only"
+}
