@@ -8,6 +8,7 @@ Each published skill should have one guide file:
 
 Current guides:
 
+- [paper-cut-video-workflow](paper-cut-video-workflow.md)
 - [yao-open-skills-sync](yao-open-skills-sync.md)
 - [yao-bayesian-skill](yao-bayesian-skill.md)
 - [yao-business-skill](yao-business-skill.md)
