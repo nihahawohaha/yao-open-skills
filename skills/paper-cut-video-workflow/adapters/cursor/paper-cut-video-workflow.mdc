@@ -1,0 +1,9 @@
+---
+description: Create a paper-cut style short video from product brief through script, storyboard, keyframes, layered animation, voiceover, audio mix, composition, QC, revision, and delivery.
+globs:
+alwaysApply: false
+---
+
+For matching paper-cut video requests, first read and follow @.cursor/skills/paper-cut-video-workflow/SKILL.md.
+
+Treat that file as the canonical workflow. Resolve all of its relative references from `.cursor/skills/paper-cut-video-workflow/`. Load only the supporting files required by the current production stage.
